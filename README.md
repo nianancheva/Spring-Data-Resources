@@ -1,6 +1,6 @@
 # 🌱 Spring-Data-Resources 🌱
 
-## ➡️ Java Persistance
+## ➡️ Java Persistence
 - Java Persistence is **the API for the management for persistence and object/relational mapping.** Used with the Access annotation to specify an access type to be applied to an entity class, mapped superclass, or embeddable class, or to a specific attribute of such a class.
 
 ## ➡️ Hibernate
