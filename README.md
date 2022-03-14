@@ -12,3 +12,4 @@
 
 ## 🔗 Useful Links
  - https://start.spring.io
+ - https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa
