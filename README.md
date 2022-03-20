@@ -13,3 +13,5 @@
 ## 🔗 Useful Links
  - https://start.spring.io
  - https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa
+ - https://www.baeldung.com/javax-validation
+ - https://springframework.guru/spring-framework-annotations/
